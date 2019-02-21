@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">shri_login</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_register_now">No Account Yet? Register Now</string>
+    <string name="shri">SHRI</string>
+    <string name="register">Register</string>
+    <string name="emergency_contact_number_3">Emergency Contact Number 3</string>
+    <string name="emergency_contact_number_2">Emergency Contact Number 2</string>
+    <string name="emergency_contact_number_1">Emergency Contact Number 1</string>
+    <string name="mobile_no">Mobile no</string>
+    <string name="name">Name</string>
+    <string name="register_new">No account? Create One</string>
+    <string name="title">SHRI</string>
+    <string name="add_vehicle">Add Vehicle</string>
+    <string name="color">Color</string>
+    <string name="welcome">Welcome </string>
+    <string name="model_name">Model Name</string>
+    <string name="vehicle_identification_number">Vehicle Identification Number</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="title_activity_track">Map</string>
+    <string name="fcm_message">message from firebase</string>
+    <string name="default_notification_channel_id">1</string>
+</resources>
