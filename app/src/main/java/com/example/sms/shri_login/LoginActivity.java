@@ -36,7 +36,7 @@ public class LoginActivity extends AppCompatActivity {
 
         FirebaseApp.initializeApp(LoginActivity.this);
         //notification channel code
-
+        //test commit
         //end
 
         setContentView(R.layout.activity_login);
